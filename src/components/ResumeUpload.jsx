@@ -18,7 +18,7 @@ function ResumeUpload() {
     formData.append("email", email)
 
     try {
-      const res = await fetch(`${import.meta.env.VITE_API_URL}/api/curriculo`, {
+      const res = await fetch("${import.meta.env.VITE_API_URL}/api/curriculo", {
         method: "POST",
         body: formData,
       })
