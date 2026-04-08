@@ -1,4 +1,5 @@
 import { useState } from "react"
+import { Link } from 'react-router-dom'
 
 function ContactForm() {
   const [form, setForm] = useState({
@@ -17,7 +18,7 @@ function ContactForm() {
     e.preventDefault()
     setStatus("enviando")
     try {
-      const res = await fetch("http://localhost:8080/api/contato", {
+      const res = await fetch(`${import.meta.env.VITE_API_URL}/api/contato`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(form),
@@ -31,6 +32,10 @@ function ContactForm() {
 
   return (
     <section className="bg-gray-900 py-24 px-6 flex flex-col items-center">
+      <Link to="/" className="mb-6">
+        <img src="/logo.png" alt="Uptime" className="h-24 mx-auto" />
+      </Link> 
+      
       <h2 className="text-3xl font-bold text-white mb-2">Entre em Contato</h2>
       <p className="text-gray-400 mb-10">Tire suas dúvidas ou agende uma conversa</p>
 

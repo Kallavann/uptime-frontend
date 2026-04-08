@@ -9,7 +9,7 @@ function Footer() {
 
       <div className="flex gap-6">
 
-        <a href="https://linkedin.com/company/SEU_LINKEDIN"
+        <a href="https://www.linkedin.com/company/uptime-mentoria-de-carreira-offshore/posts/?feedView=all"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-gray-400 hover:text-yellow-400 transition font-semibold text-sm uppercase tracking-wider">
@@ -19,7 +19,7 @@ function Footer() {
           LinkedIn
         </a>
 
-        <a href="https://instagram.com/SEU_INSTAGRAM"
+        <a href="https://www.instagram.com/uptime_mentoria?igsh=MWZrZ3k3NHpiejVtMg=="
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-gray-400 hover:text-yellow-400 transition font-semibold text-sm uppercase tracking-wider">

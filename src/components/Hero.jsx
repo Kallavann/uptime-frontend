@@ -1,10 +1,10 @@
-import { Link, Links } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 function Hero() {
   return (
     <section className="h-screen flex flex-col items-center justify-center text-center px-6 bg-gray-950">
 
-      <img src="/logo.png" alt="Uptime Consultoria" className="h-400 w-60" />
+      <img src="/logo.png" alt="Uptime Consultoria" className="h-32 w-auto" />
 
       <p className="text-yellow-600 text-2xl font-semibold tracking-widest uppercase mb-3 mt-6">
         Consultoria de Carreiras Offshore
