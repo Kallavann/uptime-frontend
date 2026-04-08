@@ -49,7 +49,7 @@ function ResumeUpload() {
         <label className="bg-gray-800 text-gray-400 p-4 rounded text-center border-2 border-dashed border-yellow-400 cursor-pointer hover:bg-gray-700 transition">
           {file ? file.name : "Clique para anexar seu currículo (PDF)"}
 
-          <input type="file" accept=".pdf,.doc,.docx" className="hidden"
+          <input type="file" accept="application/pdf" className="hidden"
             onChange={(e) => setFile(e.target.files[0])} />
 
         </label>
