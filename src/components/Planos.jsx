@@ -26,6 +26,13 @@ function Planos() {
         "LinkedIn competitivo entregue pronto",
         "Currículo competitivo entregue pronto",
         "Mentoria Completa em grupo com 3 meses de acompanhamento com no mínimo 6 encontros",
+        "Conheça todas as áreas do mercado offshore, tipos de unidades e funções para se trabalhar",
+        "Grupo de vagas",
+        "80 vídeos super intuitivos para auxílio do aprendizado do idioma inglês. Isso te auxiliará a conseguir melhores oportunidades",
+        "Encontros com profissionais altamente experientes e qualificados do mercado offshore para trocarmos experiências e aprendermos mais com eles",
+        "Treinamento de plano de transição de carreira para o mercado offshore onde mostrarei o caminho de como fazer sua transição, de forma segura e gastando menos possível com sua carreira",
+        "Treinamento de como se comportar e se destacar em uma entrevista de trabalho"
+
       ]
     },
     {
@@ -39,6 +46,15 @@ function Planos() {
         "LinkedIn competitivo entregue pronto",
         "Currículo competitivo entregue pronto",
         "Mentoria Completa em grupo com 3 meses de acompanhamento com no mínimo 6 encontros",
+        "Conheça todas as áreas do mercado offshore, tipos de unidades e funções para se trabalhar",
+        "Grupo de vagas",
+        "80 vídeos super intuitivos para auxílio do aprendizado do idioma inglês. Isso te auxiliará a conseguir melhores oportunidades",
+        "Encontros com profissionais altamente experientes e qualificados do mercado offshore para trocarmos experiências e aprendermos mais com eles",
+        "Treinamento de plano de transição de carreira para o mercado offshore onde mostrarei o caminho de como fazer sua transição, de forma segura e gastando menos possível com sua carreira",
+        "Treinamento de como se comportar e se destacar em uma entrevista de trabalho",
+        "3 encontros extras personalizados somente para você",
+        "Montagem de um plano estratégico individual para você conquistar sua vaga de forma mais simples",
+
       ]
     },
   ]
